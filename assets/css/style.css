@@ -1129,8 +1129,8 @@ p {
 .about_image .about_shape {
   width: 404px;
   height: 525px;
-  border-left: 15px solid #93673E;
-  border-bottom: 15px solid #93673E;
+  /* border-left: 15px solid #93673E;
+  border-bottom: 15px solid #93673E; */
   position: absolute;
   bottom: 0;
   left: 0;
@@ -1156,7 +1156,7 @@ p {
   content: '';
   width: 15px;
   height: 85%;
-  background-color: #93673E;
+  /* background-color: #93673E; */
   bottom: 0;
   right: 0;
 }
@@ -1166,7 +1166,7 @@ p {
   content: '';
   width: 104%;
   height: 15px;
-  background-color: #93673E;
+  /* background-color: #93673E; */
   top: 36px;
   right: -2px;
   -webkit-transform: rotate(11deg);
